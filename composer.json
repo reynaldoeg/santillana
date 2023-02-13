@@ -1,0 +1,21 @@
+{
+  "authors": [
+    {
+      "name": "Reynaldo Esparza García",
+      "email": "reynaldoeg_esparza@hotmail.com",
+      "homepage": "https://github.com/reynaldoeg",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Santillana\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.4"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.6"
+  }
+}
